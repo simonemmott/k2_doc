@@ -8,7 +8,7 @@ The diagram below show the major components of a K2 implementation.
 
 ## Functional Areas
 
-- [K2 API](functional_areas/k2_api/K2_API.md)
+- [K2 API](functional_areas/k2_api)
 - [K2 IDE](functional_areas/k2_ide/K2_IDE.md)
 - [K2 CLI](functional_areas/k2_cli/K2_CLI.md)
 
