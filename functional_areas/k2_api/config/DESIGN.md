@@ -1,4 +1,4 @@
 # K2 API Configuration Design
 
-![](K2 API Configuration.svg)
+![](K2_API_Configuration.svg)
 
