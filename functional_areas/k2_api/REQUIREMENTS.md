@@ -1,3 +1,8 @@
 # K2 API Requirements
 
-The K2 API is a Java Spring application providing a JSON api for the entities and functions for the K2 IDE.
+|It Should|Status|
+|---------|------|
+|Be runnable jar file that runs a Spring application|NOT IMPLEMENTED|
+|Identify its resources location from a configuration file|NOT IMPLEMENTED|
+|Configure a ResourceManager for it's resources location|NOT IMPLEMENTED|
+|Provide the list of projects from the servers resources as a web interface of JSON objects|NOT IMPLEMENTED|
