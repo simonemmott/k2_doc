@@ -4,4 +4,5 @@ K2 is a data driven IDE.  It runs as a web service running locally to manage pro
 
 The diagram below show the major components of a K2 implementation.
 
+![](img/K2_Overview.svg)
 
