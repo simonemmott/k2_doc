@@ -8,5 +8,7 @@ The K2 API is a Java Spring application providing a JSON api for the entities an
 ## Functional Areas
 
 - [Configuration](config)
+- [Data Model](model)
+- [Projects](projects)
 
 
